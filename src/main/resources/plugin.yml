@@ -1,0 +1,9 @@
+name: PlayerStorage
+version: '${project.version}'
+main: org.namespace.playerstorage.PlayerStorage
+api-version: 1.17
+authors: [ namespaceprogram ]
+description: A plugin for players to have a storage system so other players can not take / edit their storage
+commands:
+  pv:
+    description: Open Vault
